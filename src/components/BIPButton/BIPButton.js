@@ -16,7 +16,7 @@ const BIPButton = ({
       style={{ backgroundColor: color }}
       {...rest}
     >
-      {text} {children}
+      {text} {children} test
     </button>
   )
 }

@@ -57,6 +57,7 @@
     "@storybook/react": "^6.1.16",
     "@zeplin/cli": "^1.1.5",
     "@zeplin/cli-connect-react-plugin": "^1.1.1",
-    "@zeplin/cli-connect-storybook-plugin": "^0.5.0"
+    "@zeplin/cli-connect-storybook-plugin": "^0.5.0",
+    "chromatic": "^5.6.3"
   }
 }
