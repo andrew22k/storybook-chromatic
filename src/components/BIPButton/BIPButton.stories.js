@@ -15,6 +15,11 @@ export const Primary = () => <BIPButton variant='primary'>Primary</BIPButton>
 export const Secondary = () => <BIPButton variant='secondary'>Secondary</BIPButton>
 export const Success = () => <BIPButton variant='success'>Success</BIPButton>
 export const Danger = () => <BIPButton variant='danger'>Danger</BIPButton>
+export const accessible = () => <BIPButton>Accessible button</BIPButton>;
+
+export const inaccessible = () => (
+  <BIPButton>Inaccessible button</BIPButton>
+);
 
 const Template = args => <BIPButton {...args} />
 

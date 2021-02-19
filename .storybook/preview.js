@@ -1,6 +1,5 @@
 import React from 'react'
 import { ThemeProvider, theme, CSSReset, Box } from '@chakra-ui/react'
-
 export const parameters = {
   actions: { argTypesRegex: '^on[A-Z].*' },
 }
