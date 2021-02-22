@@ -16,7 +16,7 @@ const BIPButton = ({
       style={{ backgroundColor: color }}
       {...rest}
     >
-      longgggg button {text} {children}
+      {text} {children}
     </button>
   )
 }
